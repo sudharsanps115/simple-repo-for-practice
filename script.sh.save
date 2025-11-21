@@ -1,0 +1,4 @@
+#! /bin/bash
+
+echo "hello, this a build from jenkins at $(date)"
+echo "build no: $(BUILD_NUMBER)"
